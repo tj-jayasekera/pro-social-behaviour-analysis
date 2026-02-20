@@ -25,7 +25,7 @@ The objective was to:
 - Research and engineer external socio-economic features to cluster countries based on similarity  
 - Evaluate how predictors vary across geopolitical groupings  
 
-The project involved large-scale preprocessing, multi-source data integration, statistical modelling, and hierarchical clustering in **R**.
+The project involved large-scale preprocessing, multi-source data integration, statistical modelling, and hierarchical clustering in **R** ([Script](https://github.com/tj-jayasekera/pro-social-behaviour-analysis/blob/main/pro-social-analysis.R)).
 
 ---
 
@@ -45,7 +45,7 @@ Pro-social behaviour was measured across four dependent variables.
 
 ## 🛠 Tools & Libraries
 
-- R  
+- R - [View Scripts](https://github.com/tj-jayasekera/pro-social-behaviour-analysis/blob/main/pro-social-analysis.R)
 - ggplot2  
 - reshape2  
 - stats (`lm`, `t.test`, `hclust`, `dist`)  
