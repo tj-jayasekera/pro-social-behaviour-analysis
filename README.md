@@ -9,7 +9,6 @@
 - [📊 Statistical Analysis & Modelling](#-statistical-analysis--modelling)
   - [1️⃣ Hypothesis Testing](#1️⃣-hypothesis-testing)
   - [2️⃣ Correlation Analysis](#2️⃣-correlation-analysis)
-  - [🔥 Correlation Heatmaps](#-correlation-heatmaps)
   - [3️⃣ Multiple Linear Regression](#3️⃣-multiple-linear-regression)
 - [🌍 Country Similarity Modelling](#-country-similarity-modelling)
 - [📈 Key Insights](#-key-insights)
@@ -125,9 +124,7 @@ Key strong predictors identified:
 - Sense of purpose (`MLQ`)  
 - Time perception (`Bor03`)  
 
----
-
-### 🔥 Correlation Heatmaps
+### Correlation Heatmaps
 
 #### China
 
