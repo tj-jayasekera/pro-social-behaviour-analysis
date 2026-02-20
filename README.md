@@ -131,11 +131,11 @@ Key strong predictors identified:
 
 #### China
 
-<img width="538" height="250" alt="image" src="https://github.com/user-attachments/assets/db47e537-f886-4acf-85fe-021e3278061a" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/db47e537-f886-4acf-85fe-021e3278061a" />
 
 #### Other Countries
 
-<img width="512" height="240" alt="image" src="https://github.com/user-attachments/assets/8c27d922-e8e6-4105-81ad-08ec1d1dc288" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/8c27d922-e8e6-4105-81ad-08ec1d1dc288" />
 
 The heatmaps reveal stronger clustering between pro-social measures and radical action variables across both groups, with variation in strength and structure between geopolitical segments.
 
